@@ -47,7 +47,7 @@ $tests = [
         'title'   => '   Hello   ',
         'excerpt' => 'Résumé...',
         'views'   => '-5',
-        'author'  => '   Mehdi   ',
+        'author'  => '   Mohamed   ',
         'published' => false
     ],
 
@@ -55,7 +55,7 @@ $tests = [
     [
         'title'   => 'Laravel Framework',
         'views'   => '1200',
-        'author'  => 'Ahmed'
+        'author'  => 'Yassin'
     ],
 
     //? Exemple 5 (tous les champs non renseignés)
@@ -64,7 +64,7 @@ $tests = [
 
 
 foreach ($tests as $i => $test) {
-    echo "Test #" . ($i+1) . "\n";
+    echo "Test ----> " . ($i+1) . "\n";
     $result = buildArticle($test);
     print_r($result);
     echo "------------------\n\n";
