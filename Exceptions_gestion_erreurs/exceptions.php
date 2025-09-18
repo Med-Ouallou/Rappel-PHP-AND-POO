@@ -1,6 +1,8 @@
 <?php
 declare(strict_types=1);
 
+class SeedException extends RuntimeException {}
+
 /** Valide un article minimal (titre + slug). */
 function validateArticle(array $a): void {
     if (!isset($a['title']) || !is_string($a['title']) || $a['title'] === '') {
@@ -15,14 +17,14 @@ function validateArticle(array $a): void {
     function loadJson(string $path): array {
     $raw = @file_get_contents($path);
     if ($raw === false) {
-        throw new RuntimeException("Fichier introuvable ou illisible: $path");
+        throw new SeedException("Fichier introuvable ou illisible: $path");
     }
 
     try {
         /** @var array $data */
         $data = json_decode($raw, true, 512, JSON_THROW_ON_ERROR);
     } catch (JsonException $je) {
-        throw new RuntimeException("JSON invalide: $path", previous: $je);
+        throw new SeedException("JSON invalide: $path", previous: $je);
     }
 
     if (!is_array($data)) {
