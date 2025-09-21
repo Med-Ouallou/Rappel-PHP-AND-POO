@@ -1,0 +1,119 @@
+[
+    {
+        "title": "Bonnes pratiques PHP #1",
+        "slug": "bonnes-pratiques-php-1",
+        "excerpt": "Contenu d’exemple pour « Bonnes pratiques PHP #1 ». Cet article illustre la génération de seed JSON côté CLI.",
+        "content": "Contenu d’exemple pour « Bonnes pratiques PHP #1 ». Cet article illustre la génération de seed JSON côté CLI.",
+        "author": "Sara",
+        "published_at": "2025-09-17T22:47:33+00:00",
+        "tags": [
+            "UX",
+            "Laravel"
+        ]
+    },
+    {
+        "title": "Découvrir Eloquent #2",
+        "slug": "découvrir-eloquent-2",
+        "excerpt": "Contenu d’exemple pour « Découvrir Eloquent #2 ». Cet article illustre la génération de seed JSON côté CLI.",
+        "content": "Contenu d’exemple pour « Découvrir Eloquent #2 ». Cet article illustre la génération de seed JSON côté CLI.",
+        "author": "Amine",
+        "published_at": "2025-08-31T10:20:27+00:00",
+        "tags": [
+            "Laravel",
+            "UX"
+        ]
+    },
+    {
+        "title": "API REST lisible #3",
+        "slug": "api-rest-lisible-3",
+        "excerpt": "Contenu d’exemple pour « API REST lisible #3 ». Cet article illustre la génération de seed JSON côté CLI.",
+        "content": "Contenu d’exemple pour « API REST lisible #3 ». Cet article illustre la génération de seed JSON côté CLI.",
+        "author": "Sara",
+        "published_at": "2025-09-21T12:27:18+00:00",
+        "tags": [
+            "PHP"
+        ]
+    },
+    {
+        "title": "Pagination & filtres #4",
+        "slug": "pagination-filtres-4",
+        "excerpt": "Contenu d’exemple pour « Pagination & filtres #4 ». Cet article illustre la génération de seed JSON côté CLI.",
+        "content": "Contenu d’exemple pour « Pagination & filtres #4 ». Cet article illustre la génération de seed JSON côté CLI.",
+        "author": "Sara",
+        "published_at": "2025-08-25T00:49:12+00:00",
+        "tags": [
+            "Laravel",
+            "Mobile"
+        ]
+    },
+    {
+        "title": "Exceptions utiles #5",
+        "slug": "exceptions-utiles-5",
+        "excerpt": "Contenu d’exemple pour « Exceptions utiles #5 ». Cet article illustre la génération de seed JSON côté CLI.",
+        "content": "Contenu d’exemple pour « Exceptions utiles #5 ». Cet article illustre la génération de seed JSON côté CLI.",
+        "author": "Youssef",
+        "published_at": "2025-09-08T05:46:01+00:00",
+        "tags": [
+            "PHP",
+            "UX"
+        ]
+    },
+    {
+        "title": "Bonnes pratiques PHP #6",
+        "slug": "bonnes-pratiques-php-6",
+        "excerpt": "Contenu d’exemple pour « Bonnes pratiques PHP #6 ». Cet article illustre la génération de seed JSON côté CLI.",
+        "content": "Contenu d’exemple pour « Bonnes pratiques PHP #6 ». Cet article illustre la génération de seed JSON côté CLI.",
+        "author": "Nadia",
+        "published_at": "2025-09-11T18:02:38+00:00",
+        "tags": [
+            "PHP",
+            "Laravel"
+        ]
+    },
+    {
+        "title": "Découvrir Eloquent #7",
+        "slug": "découvrir-eloquent-7",
+        "excerpt": "Contenu d’exemple pour « Découvrir Eloquent #7 ». Cet article illustre la génération de seed JSON côté CLI.",
+        "content": "Contenu d’exemple pour « Découvrir Eloquent #7 ». Cet article illustre la génération de seed JSON côté CLI.",
+        "author": "Sara",
+        "published_at": "2025-09-16T02:34:13+00:00",
+        "tags": [
+            "MySQL",
+            "UX"
+        ]
+    },
+    {
+        "title": "API REST lisible #8",
+        "slug": "api-rest-lisible-8",
+        "excerpt": "Contenu d’exemple pour « API REST lisible #8 ». Cet article illustre la génération de seed JSON côté CLI.",
+        "content": "Contenu d’exemple pour « API REST lisible #8 ». Cet article illustre la génération de seed JSON côté CLI.",
+        "author": "Amine",
+        "published_at": "2025-08-27T03:01:21+00:00",
+        "tags": [
+            "Laravel"
+        ]
+    },
+    {
+        "title": "Pagination & filtres #9",
+        "slug": "pagination-filtres-9",
+        "excerpt": "Contenu d’exemple pour « Pagination & filtres #9 ». Cet article illustre la génération de seed JSON côté CLI.",
+        "content": "Contenu d’exemple pour « Pagination & filtres #9 ». Cet article illustre la génération de seed JSON côté CLI.",
+        "author": "Youssef",
+        "published_at": "2025-09-06T09:36:52+00:00",
+        "tags": [
+            "UX"
+        ]
+    },
+    {
+        "title": "Exceptions utiles #10",
+        "slug": "exceptions-utiles-10",
+        "excerpt": "Contenu d’exemple pour « Exceptions utiles #10 ». Cet article illustre la génération de seed JSON côté CLI.",
+        "content": "Contenu d’exemple pour « Exceptions utiles #10 ». Cet article illustre la génération de seed JSON côté CLI.",
+        "author": "Nadia",
+        "published_at": "2025-08-28T23:49:15+00:00",
+        "tags": [
+            "PHP",
+            "UX"
+        ]
+    }
+]
