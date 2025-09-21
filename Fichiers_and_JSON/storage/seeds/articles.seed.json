@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Fichiers & JSON m3a PHP",
+        "slug": "fichiers-json-m3a-php",
+        "excerpt": "Qra w kteb l fichiers, encode w decode JSON b salama.",
+        "tags": [
+            "php",
+            "json"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "T7dir seed dyal l mkalat",
+        "slug": "t7dir-seed-dyal-l-mkalat",
+        "excerpt": "Bni articles.seed.json l ynfa3 m3a Laravel.",
+        "tags": [
+            "seed",
+            "laravel"
+        ]
+    }
+]
